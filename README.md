@@ -1,4 +1,4 @@
-Forked from [original repo](https://github.com/vt-vl-lab/3d-photo-inpainting) as a supplementary material for the weights and biases report "[3D Image Inpainting]()https://app.wandb.ai/authors/3D-Inpainting/reports/3D-Image-Inpainting--VmlldzoxNzIwNTY". Check out the report for an overview of the proposed method in the linked paper.
+Forked from [original repo](https://github.com/vt-vl-lab/3d-photo-inpainting) as a supplementary material for the weights and biases report "[3D Image Inpainting](https://app.wandb.ai/authors/3D-Inpainting/reports/3D-Image-Inpainting--VmlldzoxNzIwNTY)". Check out the report for an overview of the proposed method in the linked paper.
 
 # [CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting
 
