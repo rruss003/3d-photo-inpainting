@@ -29,7 +29,7 @@ gpu_ids: 0
 offscreen_rendering: False
 
 img_format: '.jpg'
-depth_format: '.npy'
+depth_format: '.png'
 
 require_midas: True
 
